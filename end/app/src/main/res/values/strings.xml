@@ -1,0 +1,26 @@
+<resources>
+  <string name="app_name">Target Practice</string>
+  <string name="viking">Viking</string>
+  <string name="cannon">Cannon</string>
+  <string name="target">Target</string>
+  <string name="camera_permission_toast">Camera permission is needed to run this application</string>
+  <string name="searching_for_surfaces">Searching for surfaces...</string>
+  <string name="ar_device_support">This device does not support AR</string>
+    <string name="camera_not_available">Camera not available. Try restarting the app.</string>
+  <string name="arcore_install_failed">Unexpected failure during ArCoreApk install request</string>
+  <string name="please_install_arcore">Please install ARCore</string>
+  <string name="please_update_arcore">Please update ARCore</string>
+  <string name="please_update_app">Please update this app</string>
+  <string name="arcore_not_supported">This device does not support AR</string>
+  <string name="failed_to_create_session">Failed to create AR session</string>
+  <string name="camera_permission_needed">Camera permission is needed to run this application</string>
+  <string name="model_grid_png">models/trigrid.png</string>
+  <string name="model_viking_obj">models/viking.obj</string>
+  <string name="model_viking_png">models/viking.png</string>
+  <string name="model_cannon_obj">models/cannon.obj</string>
+  <string name="model_target_obj">models/target.obj</string>
+  <string name="model_cannon_png">models/cannon.png</string>
+  <string name="model_target_png">models/target.png</string>
+  <string name="failed_to_read_asset">Failed to read an asset file</string>
+  <string name="exception_on_opengl">Exception on the OpenGL thread</string>
+</resources>
